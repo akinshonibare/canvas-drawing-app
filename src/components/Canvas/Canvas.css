@@ -1,0 +1,30 @@
+.canvasWrapper {
+  height: 100%;
+  width: 100%;
+}
+
+.sider {
+  background: #0F1020;
+  color: #FFF;
+  padding: 1%;
+  min-width: 250px !important;
+  width: 250px !important;
+  max-width: 250px !important;
+}
+
+#canvas {
+  /* border: 1px solid red; */
+  background: #FFF;
+  /* width: 100%;
+  height: 100%; */
+}
+
+.canvasContent{
+  background: #D3D3D3;
+  overflow: hidden;
+}
+
+.btn {
+  width: 220px;
+  margin-bottom: 10px;
+}
